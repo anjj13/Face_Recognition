@@ -1,7 +1,7 @@
 ''''
+    Date-Training
     训练数据集里的图片
 	训练模型会放到trainer文件夹，如果没有这文件夹，请先创建
-    参考代码: https://github.com/thecodacus/Face-Recognition
     Author:An
     E-mail:2562490983@qq.com
 '''
